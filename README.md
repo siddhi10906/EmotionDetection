@@ -1,4 +1,4 @@
-# Emotion Detector
+# Final Project - Emotion Detection Application
 
 An AI-based web application built with Python, Flask, and the IBM Watson NLP EmotionPredict library. The application analyzes user-provided text statements and returns the predicted confidence scores for five emotions (`anger`, `disgust`, `fear`, `joy`, `sadness`) along with identifying the `dominant_emotion`.
 
